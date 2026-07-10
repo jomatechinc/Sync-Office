@@ -1,0 +1,6 @@
+{
+  "name": "SyncOffice",
+  "description": "A secure, intelligent, and collaborative office hub with end-to-end encryption, AI smart scheduling, and automated workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
